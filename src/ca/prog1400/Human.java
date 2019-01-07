@@ -1,6 +1,7 @@
 package ca.prog1400;
 
 public class Human {
+    // Comment
     boolean sex;
     String name = "Injun";
     int age;
